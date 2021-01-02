@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644801896596",
+    "project_id": "bruce-melody-rwandan-artist",
+    "storage_bucket": "bruce-melody-rwandan-artist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644801896596:android:ec18cb16e03b0085275481",
+        "android_client_info": {
+          "package_name": "com.supernover.musicsartuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644801896596-eaedk8bn9dgosa22t0hg0oln4mvkq70m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZgVjHzl_6FXjRaf8dRgvnXZQhKfQWubQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644801896596-eaedk8bn9dgosa22t0hg0oln4mvkq70m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
